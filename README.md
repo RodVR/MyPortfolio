@@ -6,6 +6,7 @@ My portfolio website made with React!
 ![image](https://github.com/user-attachments/assets/47fd668b-b67d-4e8d-a580-bbcf41788bc8)
 
 
-Mobile
-![image](https://github.com/user-attachments/assets/61f26324-f674-4623-8164-35481f8b3dba)
-![image](https://github.com/user-attachments/assets/d138edd6-cc2e-4f0b-ac4c-ddabb76d730b)
+
+
+
+![image](https://github.com/user-attachments/assets/61f26324-f674-4623-8164-35481f8b3dba)                                          ![image](https://github.com/user-attachments/assets/d138edd6-cc2e-4f0b-ac4c-ddabb76d730b)
